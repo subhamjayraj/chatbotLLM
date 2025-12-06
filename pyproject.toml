@@ -1,0 +1,16 @@
+[project]
+name = "langgraph-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.13.5",
+    "chromadb>=1.1.0",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.29",
+    "langchainhub>=0.1.21",
+    "langgraph>=0.6.7",
+    "pytest>=8.4.2",
+    "tavily-python>=0.7.12",
+]

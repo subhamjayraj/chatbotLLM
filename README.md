@@ -1,8 +1,4 @@
-# chatbotLLM
 
 
-#Building our own ChatBot using ChatGPT API, Langchain, Streamlit
+uv add langchain langgraph langchainhub langchain-community tavily-python chromadb pytest
 
-#Create a chatbot that hooks up to our personal documents and provides Q&A ability
-
-#pip install streamlit PyPDF2 faiss-cpu langchain ibm-watsonx-ai sentence-transformers
